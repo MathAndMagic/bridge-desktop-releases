@@ -20,3 +20,7 @@ Releases for Bridge Desktop App
 ### `v0.1.9`
 
 - MacOS: Fix CPU overloading issue due to notification listeners
+
+### `v0.1.10`
+
+- MacOS: Sign the build
