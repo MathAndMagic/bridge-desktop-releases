@@ -24,3 +24,8 @@ Releases for Bridge Desktop App
 ### `v0.1.10`
 
 - MacOS: Sign the build
+
+### `v0.2.0`
+
+- UI submodule updates
+- Versioning scheme changed to comply with semver instead of just incrementing the last digit
