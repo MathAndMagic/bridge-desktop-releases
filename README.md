@@ -29,3 +29,7 @@ Releases for Bridge Desktop App
 
 - UI submodule updates
 - Versioning scheme changed to comply with semver instead of just incrementing the last digit
+
+### `v0.3.0`
+
+- UI submodule updates
