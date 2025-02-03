@@ -38,3 +38,7 @@ Releases for Bridge Desktop App
 
 - UI submodule updates
 - Dependencies updates
+
+### `v0.5.0`
+
+- Migrate to `v1.0.0` backend
