@@ -42,3 +42,7 @@ Releases for Bridge Desktop App
 ### `v0.5.0`
 
 - Migrate to `v1.0.0` backend
+
+### `v0.5.1`
+
+- Disable app nap on MacOS for now
