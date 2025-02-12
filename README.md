@@ -46,3 +46,7 @@ Releases for Bridge Desktop App
 ### `v0.5.1`
 
 - Disable app nap on MacOS for now
+
+### `v0.6.0`
+
+- UI submodule updates
