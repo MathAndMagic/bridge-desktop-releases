@@ -58,3 +58,7 @@ Releases for Bridge Desktop App
 ### `v0.7.1`
 
 - Fix sign in flow
+
+### `v0.7.2`
+
+- UI submodule updates
