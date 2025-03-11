@@ -62,3 +62,7 @@ Releases for Bridge Desktop App
 ### `v0.7.2`
 
 - UI submodule updates
+
+### `v0.7.3`
+
+- feat(macos): make camera and microphone work in video calls
