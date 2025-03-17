@@ -66,3 +66,8 @@ Releases for Bridge Desktop App
 ### `v0.7.3`
 
 - feat(macos): make camera and microphone work in video calls
+
+### `v0.8.0`
+
+- Rust dependencies updates
+- UI submodule updates
