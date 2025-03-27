@@ -71,3 +71,7 @@ Releases for Bridge Desktop App
 
 - Rust dependencies updates
 - UI submodule updates
+
+### `v0.9.0`
+
+- UI submodule updates
