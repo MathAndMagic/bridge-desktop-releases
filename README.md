@@ -88,3 +88,7 @@ Releases for Bridge Desktop App
 ### `v0.12.0`
 
 - UI submodule updates
+
+### `v0.13.0`
+
+- UI submodule updates
