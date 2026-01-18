@@ -116,3 +116,7 @@ Releases for Bridge Desktop App
 ### `v1.0.1`
 
 - Bug fixes
+
+### `v1.0.2`
+
+- Fix updater on Mac
