@@ -108,3 +108,11 @@ Releases for Bridge Desktop App
 ### `v0.17.0`
 
 - UI submodule updates
+
+### `v1.0.0`
+
+- Migrate to Electron
+
+### `v1.0.1`
+
+- Bug fixes
