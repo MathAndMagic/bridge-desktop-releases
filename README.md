@@ -120,3 +120,7 @@ Releases for Bridge Desktop App
 ### `v1.0.2`
 
 - Fix updater on Mac
+
+### `v1.0.3`
+
+- Fix mic / camera permissions issue on MacOS
