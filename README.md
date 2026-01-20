@@ -124,3 +124,7 @@ Releases for Bridge Desktop App
 ### `v1.0.3`
 
 - Fix mic / camera permissions issue on MacOS
+
+### `v1.0.4`
+
+- Implement attachments downloading
