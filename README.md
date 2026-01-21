@@ -132,3 +132,7 @@ Releases for Bridge Desktop App
 ### `v1.0.5`
 
 - feat(calls): add screen sharing with custom picker UI
+
+### `v1.0.6`
+
+- feat(calls): native screen sharing picker UI on macOS 15+
