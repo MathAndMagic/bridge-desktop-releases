@@ -128,3 +128,7 @@ Releases for Bridge Desktop App
 ### `v1.0.4`
 
 - Implement attachments downloading
+
+### `v1.0.5`
+
+- feat(calls): add screen sharing with custom picker UI
