@@ -135,4 +135,4 @@ Releases for Bridge Desktop App
 
 ### `v1.0.6`
 
-- feat(calls): native screen sharing picker UI on macOS 15+
+- feat: add macOS install prompt and Windows taskbar badge 
