@@ -136,3 +136,7 @@ Releases for Bridge Desktop App
 ### `v1.0.6`
 
 - feat: add macOS install prompt and Windows taskbar badge 
+
+### `v1.1.0`
+
+- feat: add `es-ES`, `fr-FR`, `pt-BR` and `ru-RU` localizations
