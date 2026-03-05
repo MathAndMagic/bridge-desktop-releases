@@ -140,3 +140,11 @@ Releases for Bridge Desktop App
 ### `v1.1.0`
 
 - feat: add `es-ES`, `fr-FR`, `pt-BR` and `ru-RU` localizations
+
+### `v1.2.0`
+
+- UI submodule updates
+
+### `v1.3.0`
+
+- UI submodule updates
