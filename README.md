@@ -148,3 +148,11 @@ Releases for Bridge Desktop App
 ### `v1.3.0`
 
 - UI submodule updates
+
+### `v1.3.1`
+
+- Performance improvements
+
+### `v1.3.2`
+
+- Fix battery draining issues
